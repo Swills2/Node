@@ -1,0 +1,180 @@
+var bk_results = {
+ "campaigns": [
+  {
+    "campaign": 183255,
+    "timestamp": 1536607610,
+    "categories": [
+    {
+     "categoryID": 532019,
+     "timestamp": 1536607610
+    },
+    {
+     "categoryID": 532178,
+     "timestamp": 1536607610
+    },
+    {
+     "categoryID": 532183,
+     "timestamp": 1536607610
+    },
+    {
+     "categoryID": 673159,
+     "timestamp": 1536362582
+    },
+    {
+     "categoryID": 819292,
+     "timestamp": 1534270562
+    },
+    {
+     "categoryID": 950281,
+     "timestamp": 1536265226
+    }
+    ]
+  },
+  {
+    "campaign": 128616,
+    "timestamp": 1536607610,
+    "categories": [
+    {
+     "categoryID": 25719,
+     "timestamp": 1536200589
+    }
+    ]
+  },
+  {
+    "campaign": 117098,
+    "timestamp": 1536607610,
+    "categories": [
+    {
+     "categoryID": 5733,
+     "timestamp": 1534270562
+    },
+    {
+     "categoryID": 26035,
+     "timestamp": 1536607610
+    },
+    {
+     "categoryID": 26037,
+     "timestamp": 1536607610
+    },
+    {
+     "categoryID": 28914,
+     "timestamp": 1536362582
+    },
+    {
+     "categoryID": 408098,
+     "timestamp": 1536607610
+    }
+    ]
+  },
+  {
+    "campaign": 285782,
+    "BKUserID": "Ky5oB2NG99Y9XVJq",
+    "BluekaiAudienceName": "3+|+HHI+$125K++",
+    "timestamp": 1536607610,
+    "categories": [
+    {
+     "categoryID": 25052,
+     "timestamp": 1534270562
+    }
+    ]
+  },
+  {
+    "campaign": 285781,
+    "BKUserID": "Ky5oB2NG99Y9XVJq",
+    "BluekaiAudienceName": "3+|+HHI+$60-125K",
+    "timestamp": 1536607610,
+    "categories": [
+    {
+     "categoryID": 5732,
+     "timestamp": 1536607586
+    },
+    {
+     "categoryID": 5733,
+     "timestamp": 1534270562
+    },
+    {
+     "categoryID": 5734,
+     "timestamp": 1536362582
+    }
+    ]
+  },
+  {
+    "campaign": 117086,
+    "timestamp": 1536607610,
+    "categories": [
+    {
+     "categoryID": 5733,
+     "timestamp": 1534270562
+    },
+    {
+     "categoryID": 14969,
+     "timestamp": 1536607610
+    },
+    {
+     "categoryID": 28914,
+     "timestamp": 1536362582
+    },
+    {
+     "categoryID": 30781,
+     "timestamp": 1536607610
+    },
+    {
+     "categoryID": 408098,
+     "timestamp": 1536607610
+    }
+    ]
+  },
+  {
+    "campaign": 169305,
+    "timestamp": 1536607610,
+    "categories": [
+    {
+     "categoryID": 32910,
+     "timestamp": 1536298366
+    },
+    {
+     "categoryID": 532019,
+     "timestamp": 1536607610
+    }
+    ]
+  },
+  {
+    "campaign": 183260,
+    "timestamp": 1536607610,
+    "categories": [
+    {
+     "categoryID": 532019,
+     "timestamp": 1536607610
+    },
+    {
+     "categoryID": 532186,
+     "timestamp": 1536607610
+    },
+    {
+     "categoryID": 950281,
+     "timestamp": 1536265226
+    },
+    {
+     "categoryID": 950409,
+     "timestamp": 1534815506
+    }
+    ]
+  },
+  {
+    "campaign": 285780,
+    "BKUserID": "Ky5oB2NG99Y9XVJq",
+    "BluekaiAudienceName": "3+|+HHI+<$60K",
+    "timestamp": 1536607610,
+    "categories": [
+    {
+     "categoryID": 69,
+     "timestamp": 1536607610
+    },
+    {
+     "categoryID": 5731,
+     "timestamp": 1536607610
+    }
+    ]
+  }
+ ]
+};
